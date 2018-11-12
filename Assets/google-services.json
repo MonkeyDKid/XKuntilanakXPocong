@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "258345228269",
+    "firebase_url": "https://pemburuhantu-t1.firebaseio.com",
+    "project_id": "pemburuhantu-t1",
+    "storage_bucket": "pemburuhantu-t1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258345228269:android:e0e4d5fe24f60071",
+        "android_client_info": {
+          "package_name": "com.gamelevelone.pemburu_hantu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258345228269-cuu4rf721bb9sorecbb08hbguiprgr1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmS-7upnVysdUCbfXjKXWM9Y3VHUcz6_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258345228269:android:ac84cbd304fba8f5",
+        "android_client_info": {
+          "package_name": "com.gl1.pemburu_hantu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258345228269-cuu4rf721bb9sorecbb08hbguiprgr1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmS-7upnVysdUCbfXjKXWM9Y3VHUcz6_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
